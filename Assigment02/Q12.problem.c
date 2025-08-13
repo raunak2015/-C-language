@@ -1,0 +1,1 @@
+//Q12.Write a program to input an integer and print its ASCII character using casting.
